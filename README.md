@@ -1,4 +1,9 @@
-# webKnossos cuber (wkcuber)
+# Development moved to [webknossos-libs](https://github.com/scalableminds/webknossos-libs)
+
+The webKnossos cuber and the Dataset API has moved to the new library repository at https://github.com/scalableminds/webknossos-libs
+
+---
+# Old Readme: webKnossos cuber (wkcuber)
 [![PyPI version](https://img.shields.io/pypi/v/wkcuber)](https://pypi.python.org/pypi/wkcuber)
 [![Supported Python Versions](https://img.shields.io/pypi/pyversions/wkcuber.svg)](https://pypi.python.org/pypi/wkcuber)
 [![Build Status](https://img.shields.io/github/workflow/status/scalableminds/webknossos-cuber/CI/master)](https://github.com/scalableminds/webknossos-cuber/actions?query=workflow%3A%22CI%22)
